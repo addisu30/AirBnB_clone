@@ -243,7 +243,7 @@ e952b772-80a5-41e9-b728-6bc4dc5c21b4
 <details>
     <summary></summary>
     <ul>
-    <li><a href="">Github</a></li>
-    <li><a href="">e-mail</a></li>
+    <li><a href="https://www.github.com/addisu30">Github</a></li>
+    <li><a href="mailto:addisudabale21@gmail.com">e-mail</a></li>
     </ul>
 </details>
